@@ -25,10 +25,11 @@ Quantalite is a modern web application built with **React, Vite, and TailwindCSS
 
 ---
 
-[![Visit Quantalite](https://img.shields.io/badge/Visit%20App-Quantalite-blue?style=for-the-badge)](https://quantalite.vercel.app/)
-[**🌐 Visit Quantalite**](https://quantalite.vercel.app/)
-[![Open Quantalite](https://img.shields.io/badge/🌐_Open-Quantalite-brightgreen?style=for-the-badge&logo=vercel)](https://quantalite.vercel.app/)
-[![Visit Quantalite](https://img.shields.io/badge/Visit%20App-Quantalite-blue?style=for-the-badge)](https://quantalite.vercel.app/)
+## 🌍 Try QuantaLite: 
+
+[![Visit Here](https://img.shields.io/badge/Listen_Here-blue?style=for-the-badge)](https://quantalite.vercel.app/)
+
+---
 
 ## 📂 Project Structure
 
