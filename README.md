@@ -27,7 +27,7 @@ Quantalite is a modern web application built with **React, Vite, and TailwindCSS
 
 ## 🌍 Try QuantaLite: 
 
-[![Visit Here](https://img.shields.io/badge/Listen_Here-blue?style=for-the-badge)](https://quantalite.vercel.app/)
+[![Visit Here](https://img.shields.io/badge/Try_Here-blue?style=for-the-badge)](https://quantalite.vercel.app/)
 
 ---
 
